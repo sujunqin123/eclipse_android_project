@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">GrayProcess2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="str_proc">模型训练</string>
+    <string name="str_test">模型测试</string>
+    <string name="str_take_photo">拍照</string>
+    <string name="str_desc">image description</string>
+</resources>

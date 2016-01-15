@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.2081477878/NDKROOT/delimiter=;
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.2081477878/NDKROOT/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.2081477878/NDKROOT/value=${ndk}
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.2081477878/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cygwin.base.2081477878/appendContributed=true
